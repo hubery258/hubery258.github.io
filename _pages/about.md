@@ -1,15 +1,22 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "hubery"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+近来觉得mkdocs的结构化体系适合存放知识，而对于及时发布一些想法，就不够时间直观，于是这个更传统化的blog就诞生了，用的是Jekyll，模板是tale，读懂了一些管理结构，或许会自己做一些调整~
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+我很喜欢这种极简的感觉，喜欢你也喜欢这个blog，欢迎来我的笔记本作客！
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+## FIND ME ELSEWHERE
+[notebook](https://hubery258.github.io/dreamland-hubery/)
+[知乎](https://www.zhihu.com/people/hubery-62-3 "有时回答一些问题") <br>
+[github](https://github.com/hubery258)<br>
+[豆瓣](https://www.douban.com/people/258193304)<br>
+email: [hubery8065@hotmail.com](mailto:hubery8065@hotmail.com)
+ or [ramenboy233@gmail.com](mailto:ramenboy233@gmail.com)  <br>
+公众号： “没有时间感的盆栽”
 
-Thanks for reading!
+
+Thanks for reading!如果要交换友链请联系我！！
