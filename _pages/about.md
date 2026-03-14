@@ -10,7 +10,7 @@ permalink: /about/
 我很喜欢这种极简的感觉，喜欢你也喜欢这个blog，欢迎来我的笔记本作客！
 
 ## FIND ME ELSEWHERE
-[notebook](https://hubery258.github.io/dreamland-hubery/)
+[notebook](https://hubery258.github.io/notebook/)<br>
 [知乎](https://www.zhihu.com/people/hubery-62-3 "有时回答一些问题") <br>
 [github](https://github.com/hubery258)<br>
 [豆瓣](https://www.douban.com/people/258193304)<br>
